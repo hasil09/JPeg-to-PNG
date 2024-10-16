@@ -1,6 +1,7 @@
 # Installation
 
   ## Windows
+  
   ###1. Locate the JPG file you wish to convert in your system
   ###2. Right-click it and select 'edit'
   ###3. In the Paint App, select 'file' then 'save as'
