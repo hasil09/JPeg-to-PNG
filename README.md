@@ -54,6 +54,14 @@ This is a simple Python application that allows users to convert JPEG images to 
 - PIL (Python Imaging Library)
 - tkinter (usually comes pre-installed with Python)
 
+## About the Author
+
+'Hazel Anne A. Barcelona'
+- 16 years old, born in September 7 2008
+- District East, Cubi-Cubi, Nasipit, ADN
+- Daughter of Mrs. Liezlda A. Barcelona and Mr. Hindre C. Barcelona
+- Attended Elementary in Cubi-Cubi Elementary School, Junior High School in Northwestern Agusan Colleges, and currently a Senior High School student in same school.
+  
 ## Disclaimer
 
 This software is provided "as is", without warranty of any kind. The authors are not responsible for any damages or data loss that may occur from using this software. Always keep backups of your important files before performing any conversions.
