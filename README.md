@@ -56,7 +56,7 @@ This is a simple Python application that allows users to convert JPEG images to 
 
 ## About the Author
 
-'Hazel Anne A. Barcelona'
+##'Hazel Anne A. Barcelona'
 - 16 years old, born in September 7 2008
 - District East, Cubi-Cubi, Nasipit, ADN
 - Daughter of Mrs. Liezlda A. Barcelona and Mr. Hindre C. Barcelona
