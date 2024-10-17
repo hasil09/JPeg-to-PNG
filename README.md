@@ -57,6 +57,7 @@ This is a simple Python application that allows users to convert JPEG images to 
 ## About the Author
 
 ## 'Hazel Anne A. Barcelona'
+![Hazel](https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-6/432210967_1554680812050773_1306406642730624936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFTg4urGVLNTX15drfss4VaDQ__Wj_ke0cND_9aP-R7R84JCEhjbvPtluuHzsYBYbuHjSNDOUc9HxzXogMPHOKb&_nc_ohc=7ppb_bksxEEQ7kNvgH2Mehf&_nc_zt=23&_nc_ht=scontent.fdvo5-1.fna&_nc_gid=ABDvwrC1QgCzcLsO1_CHdQR&oh=00_AYCnYrgmjg18WyCcOGePivllHjxjH5PMQEUE99e3SSsR0A&oe=67163561)
 - 16 years old, born in September 7 2008
 - District East, Cubi-Cubi, Nasipit, ADN
 - Daughter of Mrs. Liezlda A. Barcelona and Mr. Hindre C. Barcelona
