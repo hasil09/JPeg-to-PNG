@@ -61,7 +61,7 @@ This is a simple Python application that allows users to convert JPEG images to 
 - District East, Cubi-Cubi, Nasipit, ADN
 - Daughter of Mrs. Liezlda A. Barcelona and Mr. Hindre C. Barcelona
 - Attended Elementary in Cubi-Cubi Elementary School, Junior High School in Northwestern Agusan Colleges, and currently a Senior High School student in the same school.
-- [link to soc-med] (https://www.facebook.com/hazelanne.barcelona.50?mibextid=LQQJ4d)
+- [link to soc-med](https://www.facebook.com/hazelanne.barcelona.50?mibextid=LQQJ4d)
 
 ## Disclaimer
 
